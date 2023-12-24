@@ -8,6 +8,8 @@ Using bootstrap, we can get an estimate of the sampling distribution of 'partiti
 
 Simulations presented here demonstrate that the estimated amount of variance explained by predictors (or shared by them) largely changes across samples in case of low degrees of freedom. So, in case of low sample size or overly complex (high number of parameters) models, our guess on the amount of variance explained by different predictors could be pretty unstable.
 
-!["Preliminary results showing how the uncertainty around partitioned variance decreses with increasing sample size"](https://github.com/ManueleBazzichetto/BootVarParty/blob/main/BootVar_prel_res.jpeg)
+<br>
+
+![Preliminary results showing how the uncertainty around partitioned variance decreses with increasing sample size](https://github.com/ManueleBazzichetto/BootVarParty/blob/main/BootVar_prel_res.jpeg)
 
 
