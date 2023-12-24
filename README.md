@@ -10,7 +10,7 @@ Simulations presented here demonstrate that the estimated amount of variance exp
 
 <br>
 
-Preliminary results showing how the uncertainty around partitioned variance decreses with increasing sample size:
+Preliminary results showing how the uncertainty around partitioned variance decreses with increasing sample size. Facets refer to low, medium and high correlation among the 2 predictors used in the simulations. On the x-axis, the 3 considered samples sizes: low (n = 50), medium (500) and large (5000).
 
 <br>
 
