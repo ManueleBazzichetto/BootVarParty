@@ -10,6 +10,6 @@ Simulations presented here demonstrate that the estimated amount of variance exp
 
 <br>
 
-![Preliminary results showing how the uncertainty around partitioned variance decreses with increasing sample size](https://github.com/ManueleBazzichetto/BootVarParty/blob/main/BootVar_prel_res.jpeg)
+![Preliminary results](https://github.com/ManueleBazzichetto/BootVarParty/blob/main/BootVar_prel_res.jpeg)
 
-
+<figcaption>Preliminary results showing how the uncertainty around partitioned variance decreses with increasing sample size.</figcaption>
